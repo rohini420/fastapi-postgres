@@ -351,10 +351,10 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 
 ## 👨‍💻 Author
 
-**Divakar BV**
+**Rohini Swathi Bhatlapenumarthi**
 
-- GitHub: [@divakar-bv](https://github.com/divakar-bv)
-- LinkedIn: [Divakar BV](https://linkedin.com/in/divakar-bv)
+- GitHub: [@rohini420](https://github.com/rohini420)
+- LinkedIn: [rohiniswathi](https://www.linkedin.com/in/rohini-swathi-b-6a3029119/)
 
 ---
 
